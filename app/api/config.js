@@ -1,4 +1,4 @@
-export const BASE_URL = 'kotografia-back.nomoredomainswork.ru/api'
+export const BASE_URL = 'https://kotografia-back.nomoredomainswork.ru/api'
 export const endpoints = {
   games: `${BASE_URL}/games`,
   auth: `${BASE_URL}/auth/login`,
